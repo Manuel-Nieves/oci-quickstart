@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:22.04
 
 LABEL "name"="Build ORM Zip"
 LABEL "version"="1.0"
